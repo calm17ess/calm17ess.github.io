@@ -2,7 +2,7 @@
 layout: post
 title: Nautilus에서 'New document' 탭 만들기
 author: calm17ess
-subtitle: How to create a new document in Gnome files
+subtitle: How to create a new document in Nautilus
 categories: linux
 banner:
   image: /assets/images/banners/posts_banners/linux.jpg
@@ -11,7 +11,7 @@ banner:
   height: "100vh"
   min_height: "38vh"
   subheading_style: "color: gold"
-tags: [gnome, nautilus, new document, document, new file]
+tags: [gnome, nautilus, new document, document, new file, linux]
 ---
 
 ## 미리보기
