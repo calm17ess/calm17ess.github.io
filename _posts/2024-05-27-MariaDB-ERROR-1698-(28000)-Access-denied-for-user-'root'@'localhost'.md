@@ -2,8 +2,8 @@
 layout: post
 title: ERROR 1698 (28000):Access denied for user 'root'@'localhost' 해결하기
 author: calm17ess
-subtitle: ERROR 1698 (28000):Access denied for user 'root'@'localhost' Solve
-categories: linux
+subtitle: How to solve ERROR 1698 (28000):Access denied for user 'root'@'localhost'
+categories: MariaDB
 banner:
   image: /assets/images/banners/posts_banners/mariadb.jpg
   opacity: 0.618

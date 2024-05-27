@@ -3,7 +3,7 @@ layout: post
 title: Nautilus에서 'New document' 탭 만들기
 author: calm17ess
 subtitle: How to create a new document in Nautilus
-categories: linux
+categories: Linux
 banner:
   image: /assets/images/banners/posts_banners/linux.jpg
   opacity: 0.618
