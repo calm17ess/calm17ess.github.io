@@ -42,7 +42,8 @@ mongodb.service - MongoDB Database Server
 
 ## 에러 원인
 
-.sock 파일의 사용자 권한으로 인해 발생하는 문제. 소유자를 mongodb 사용자로 변경하면 됨
+.sock 파일의 사용자 권한으로 인해 발생하는 문제.
+소유자를 mongodb 사용자로 변경하면 됨
 
 ## 에러 해결
 
